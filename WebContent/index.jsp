@@ -13,10 +13,6 @@
 	</form>
 </body>
 </html>
-<!-- risolvi l'errore della riga 1 - the superclass was not found 
-altro commit
-blablabla
-prova di poluzz
-ciao stronzo
-Turrini Figlo di troia
+<!-- 
+Ciao giovanni vedi il mio commento?
 -->
