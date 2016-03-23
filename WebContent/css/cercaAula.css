@@ -1,0 +1,185 @@
+@font-face {
+	font-family: Roboto-Bold;
+	src: url('../fonts/roboto-bold-netservice.eot');
+	src: url('../fonts/roboto-bold-netservice.eot?#iefix') format('embedded-opentype'),
+url('../fonts/roboto-bold-netservice.woff') format('woff'),
+url('../fonts/roboto-bold-netservice.ttf') format('truetype'),
+url('../fonts/roboto-bold-netservice.svg#Roboto-Bold') format('svg');
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: Roboto-Medium;
+	src: url('../fonts/roboto-medium-netservice.eot');
+	src: url('../fonts/roboto-medium-netservice.eot?#iefix') format('embedded-opentype'),
+url('../fonts/roboto-medium-netservice.woff') format('woff'),
+url('../fonts/roboto-medium-netservice.ttf') format('truetype'),
+url('../fonts/roboto-medium-netservice.svg#Roboto-Medium') format('svg');
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: Roboto-Regular;
+	src: url('../fonts/roboto-regular-netservice.eot');
+	src: url('../fonts/roboto-regular-netservice.eot?#iefix') format('embedded-opentype'),
+url('../fonts/roboto-regular-netservice.woff') format('woff'),
+url('../fonts/roboto-regular-netservice.ttf') format('truetype'),
+url('../fonts/roboto-regular-netservice.svg#Roboto-Regular') format('svg');
+	text-rendering: optimizeLegibility;
+}
+
+@font-face {
+	font-family: Roboto-Thin;
+	src: url('../fonts/roboto-thin-netservice.eot');
+	src: url('../fonts/roboto-thin-netservice.eot?#iefix') format('embedded-opentype'),
+url('../fonts/roboto-thin-netservice.woff') format('woff'),
+url('../fonts/roboto-thin-netservice.ttf') format('truetype'),
+url('../fonts/roboto-thin-netservice.svg#Roboto-Thin') format('svg');
+	text-rendering: optimizeLegibility;
+}
+p{
+	text-align: center;
+	font-size: 32px;
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+body.poluzzi {
+	background: #313131;
+}
+body.poluzzi .container {
+	background: #FFF;
+}
+video {
+	    width: 100%;
+}
+.navigation ul.nav li a {
+	font-size: 20px;
+	color: #000;
+}
+
+.form-cerca-aula {
+	text-align: center;
+}
+.rowloghi{
+	margin-top: 50px;
+}
+.rowcentrale{
+	margin-top: 20px;
+}
+.descrizione {
+	width: 100%;
+	height: 500px;
+	background-color: lightgray; 
+}
+#logo2{
+	width: 200px;
+	height: 80px;
+}
+.logo3 {
+	text-align: center;
+}
+#logo3{
+	width: 250px;
+	height: 80px;
+}
+.logo4 {
+	text-align: right;
+}
+#logo4{
+	width: 250px;
+	height: 80px;
+
+}
+
+#video1 {
+	margin-right:10px;	
+}
+.messaggioDiv {
+	position:absolute;
+	right:auto;
+	margin-left:340px;	
+	background:rgba(255,255,255,1.00);
+	color:rgba(0,0,0,1.00);
+}
+.copyright1 {
+	position:absolute;
+	bottom:0;
+	color:rgba(255,255,255,1.00);
+	text-align:center;
+	font-size:12px;
+}
+.home1 {
+	position:absolute;
+	top:0;	
+	float:right;
+}
+.homeButton1{
+	background-color:transparent !important;
+	background:no-repeat;
+	right:0;
+	border:thin;
+	float:right !important;
+	cursor:pointer;
+	position: fixed;
+    margin-right: 20px;
+}
+
+#jahveTitle1{
+	font-family:"Roboto-Medium";
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.jahveDesc1{
+	font-family:"Roboto-Thin";
+	font-size: 48px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
+h1 .caps {
+    color: #23ddc3;
+    font-family:"Roboto-Regular";
+}
+
+
+.idselect1{
+	background: none !important;
+	color: #41B99E !important;
+	border: 2px solid #41B99E !important;
+	cursor:pointer;
+}
+.idoption1 {
+	background:none !important;
+	background-color:transparent !important;
+	cursor:pointer;
+	margin:0;
+	border:thin;
+}
+#homePage1 {
+	width:48px;
+	height:48px;	
+}
+.copyright {
+	padding: 20px 10px;
+	text-align: center;
+	font-style: italic;
+	color: black;
+	font-weight: bold;
+}
+.select1 {
+	margin-top: 10px;
+}
+
+.selectOra {
+	text-align: right !important;
+	color: blue;
+}
+
+.radioInput {
+	text-align: left !important;	
+}
+input[type='radio'].active {
+	background: red;
+}
