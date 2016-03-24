@@ -1,6 +1,7 @@
-<!doctype html>
-<html>
-    <head>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+ <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="../css/CercaProfessore.css">
         <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
@@ -45,19 +46,19 @@
                             <form>
                                 <div class="btn-group" data-toggle="buttons">
                                     <label class="btn btn-default">
-                                        <input type="radio" id="radioLun" name="radioLun" value="Lunedi" checked="checked" onclick="seconda()"/> LunedÃ¬
+                                        <input type="radio" id="radioLun" name="radioLun" value="Lunedi" checked="checked" onclick="seconda()"/> Lunedì
                                     </label> 
                                     <label class="btn btn-default">
-                                        <input type="radio" id="radioMar" name="radioMar" value="Martedi" onclick="seconda()"/> MartedÃ¬
+                                        <input type="radio" id="radioMar" name="radioMar" value="Martedi" onclick="seconda()"/> Martedì
                                     </label> 
                                     <label class="btn btn-default">
-                                        <input type="radio" id="radioMer" name="radioMer" value="Mercoledi" onclick="seconda()"/> MercoledÃ¬
+                                        <input type="radio" id="radioMer" name="radioMer" value="Mercoledi" onclick="seconda()"/> Mercoledì
                                     </label> 
                                     <label class="btn btn-default">
-                                        <input type="radio" id="radioGiov" name="radioGiov" value="Giovedi" onclick="seconda()"/> GiovedÃ¬
+                                        <input type="radio" id="radioGiov" name="radioGiov" value="Giovedi" onclick="seconda()"/> Giovedì
                                     </label>
                                     <label class="btn btn-default">
-                                        <input type="radio" id="radioVen" name="radioVen" value="Venerdi" onclick="seconda()"/> VenerdÃ¬
+                                        <input type="radio" id="radioVen" name="radioVen" value="Venerdi" onclick="seconda()"/> Venerdì
                                     </label>
                                     <label class="btn btn-default">
                                         <input type="radio" id="radioSab" name="radioSab" value="Sabato" onclick="seconda()"/> Sabato
